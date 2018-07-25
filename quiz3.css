@@ -1,0 +1,160 @@
+header{
+			height: 30px;
+			width: 100%;
+			position: static;
+			left:10px;
+
+		}
+		a{
+			text-decoration: none;
+			position: relative;
+			left: 500px;
+			top:0;
+			padding: 10px;
+		}
+		h1{
+			text-indent: 10px;
+			  border-left-style: solid;
+			  border-left-color: yellow;
+			  border-width: 10px;
+			font-family: 'Anton', sans-serif;
+		}
+		.wrapper {
+  width: 800px;
+  clear:both;
+}
+.first {
+  border: none;
+  height: 450px;
+  width: 430px;
+  float: left;
+  position: static;
+  margin-top: 10px;
+  margin-left: 5px;
+}
+.second {
+  border: none;
+  height: 350px;
+  width: 250px;
+  float: left;
+  
+}
+.third{
+	position: absolute;
+	left: 850px;
+	border: none;
+  height: 350px;
+  width: 400px;
+  float: right;
+  margin-top: 10px;
+  margin-left: 100px;
+}
+h3{
+	text-align: left;
+	border-left-style: solid;
+			  border-left-color: yellow;
+			  border-width: 10px;
+			font-family: 'Anton', sans-serif;
+
+}
+img{
+	height:300px ;
+	width:400px;
+	border-radius: 5px;
+}
+.menu1{
+	border:none;
+	background: Cornsilk;
+	height: 180px;
+	width: 40%;
+	position: relative;
+	left: 100px;
+	bottom: 20px;
+	border-radius: 2px;
+	column-count: 2;
+	column-rule-style: dashed;
+	column-rule-color: red;
+	column-rule-width: 2px;
+	column-width: 2px;
+}
+
+.menu2{
+	border:none;
+	background: Cornsilk;
+	height: 180px;
+	width: 40%;
+	position: relative;
+	left: 700px;
+	bottom: 200px;
+	border-radius: 2px;
+	column-count: 2;
+	column-rule-style: dashed;
+	column-rule-color: red;
+	column-rule-width: 2px;
+	column-width: 2px;
+
+}
+.menu3{
+	border:none;
+	background: Cornsilk;
+	height: 180px;
+	width: 40%;
+	position: relative;
+	left: 100px;
+	bottom: 100px;
+	column-count: 2;
+	column-rule-style: dashed;
+	column-rule-color: red;
+	column-rule-width: 2px;
+	column-width: 2px;
+	border-radius: 2px;
+}
+.menu4{
+	border:none;
+	background: Cornsilk;
+	height: 180px;
+	width: 40%;
+	position: relative;
+	left: 700px;
+	bottom: 280px;
+	column-count: 2;
+	column-rule-style: dashed;
+	column-rule-color: red;
+	column-rule-width: 2px;
+	column-width: 2px;
+	border-radius: 2px;
+}
+.menu{
+	background: grey;
+	height: 600px;
+	width: 100%;
+	position: absolute;
+	left: 5px;
+	top: 600px;
+}
+.end{
+	background: Cornsilk;
+	height: 500px;
+	width: 100%;
+	position: relative;
+	top: 600px;
+}
+.wrapper1{
+	 width: 100%;
+  clear:both;
+}
+.loc{
+	 position: absolute;
+	 left: 600px;
+	 bottom: 150px;
+}
+p{
+	text-indent: 5px;
+	font-size: 15px;
+	text-align: left;
+	padding-left: 40px;
+
+}
+::-webkit-scrollbar { 
+    display: none; 
+}
